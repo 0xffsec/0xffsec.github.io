@@ -1,0 +1,14 @@
+url: "https://0xffsec.com"
+baseurl: "/"
+title: "0xffsec"
+description: "Full stack hacking."
+email: "0xffsec@pm.com"
+logo: "/assets/images/logo.png"
+
+sass:
+    style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
